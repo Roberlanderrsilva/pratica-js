@@ -1,0 +1,52 @@
+<!DOCTYPE html><!-- doctype do HTML5 -->
+  
+
+
+<html lang="pt-br">
+
+	<head>
+
+		<script>
+			     window.onload = function() {
+			     	alert("Olá Dev's");
+			     }
+			     
+	    </script>
+
+	          <title>Conhecimento é Poder</title>
+              <meta charset="utf-8">
+     </head>
+
+
+
+            <body>
+              
+
+              <h2> Inicio aqui minha jornada a "DEV"  </h2>
+
+             <h3>A necessidade de garantir uma formação profissional de qualidade e uma vaga no mercado de trabalho tão concorrido, fizeram com que a busca pela qualificação e pelo conhecimento se tornassem ainda mais necessária. Isso garantiu ainda mais visibilidade para os cursos técnicos. Uma opção de ensino que garante a formação profissional em um período menor, em um prazo de um ano e meio a dois anos, e permite um ingresso rápido no mercado de trabalho, porém ninguem esperava por uma pandemia.</h3>
+
+
+        
+
+
+              <h4>Não é a idade quem determina a capacidade de aprender, mas, sua Auto Determinação.
+               Existem diversos cursos gratuitos que podem potencializar seus ganhos, e você só precisará de força de vontade e determinação para chegar onde quer! </h4>
+
+
+
+
+
+
+ 	          <h5>Use melhor seu tempo, Leia bons livros, assista bons videos, gaste tempo com coisas que realmente importa!
+ 	          Os DEV's contornam os efeitos da pandemia através da web</h5>
+
+ 
+
+              <h3>Primeiros passos para tornar-se um "dev" ;)  </h3>
+
+
+            </body>
+
+
+</html>
